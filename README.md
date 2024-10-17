@@ -1,6 +1,6 @@
 # Wheat_species_classification
 
-#Nondestructive Identification of Wheat Species using  Deep Convolutional Networks with Oversampling Strategies on Near-Infrared Hyperspectral Imagery
+# Nondestructive Identification of Wheat Species using  Deep Convolutional Networks with Oversampling Strategies on Near-Infrared Hyperspectral Imagery
 
 **Authors** :Nitin Tyagi, Sarvagya Porwal, Pradeep Singh, Balasubramanian Raman, Neerja Garg
 
