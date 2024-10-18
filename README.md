@@ -32,6 +32,7 @@ The dataset for this research consists of images of 40 popular wheat varieties h
 3 Scikit-learn, NumPy, Pandas, Rich, Seaborn,
 
 and Matplotlib,
+**Problem Solving Approach**
 
 **Results**
 
