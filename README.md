@@ -33,6 +33,7 @@ The dataset for this research consists of images of 40 popular wheat varieties h
 
 and Matplotlib,
 **Problem Solving Approach**
+![Wheat Seed Image](images/wheat_seed.png)
 
 **Results**
 
