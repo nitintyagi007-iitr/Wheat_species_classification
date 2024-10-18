@@ -35,7 +35,7 @@ and Matplotlib
 
 **Problem Solving Approach**
 
-![Wheat Seed Image](Traditional machine learning models/Proposed approach.png)
+![Wheat Seed Image](https://github.com/nitintyagi007-iitr/Wheat_species_classification/blob/main/Traditional%20machine%20learning%20models/Proposed%20approach.png)
 
 **Results**
 
