@@ -35,8 +35,7 @@ and Matplotlib
 
 **Problem Solving Approach**
 
-![Wheat Seed Image]([images/wheat_seed.png](https://github.com/nitintyagi007-iitr/Wheat_species_classification/blob/main/Traditional%20machine%20learning%20models/Proposed%20approach.png))
-
+![Wheat Seed Image](Traditional machine learning models/Proposed approach.png)
 **Results**
 
 The classification of the four wheat species is performed using 1D-CNN, 1D-ResNet and four traditional machine learning models namely: Naïve Bayes, KNN, Random Forest and XGBoost. 1D-CNN outperformed the other models. The performance of the models were evaluated using imbalanced and balanced data.
