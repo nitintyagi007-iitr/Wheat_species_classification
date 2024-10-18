@@ -41,4 +41,4 @@ The classification of the four wheat species is performed using 1D-CNN, 1D-ResNe
 
 **Instructions to use**
 
-1D CNN folder comprised of all crease up, crease down and combined data files and 1D-ResNet folder contains single file ```resnet1D.ipynb``` which include programs of all crease up, crease down and combined data
+1D CNN folder comprised of all crease up, crease down and combined data files and 1D-ResNet folder contains single file ```resnet1D.ipynb``` which include programs of all crease up, crease down and combined data.
