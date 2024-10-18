@@ -40,3 +40,6 @@ and Matplotlib
 **Results**
 
 The classification of the four wheat species is performed using 1D-CNN, 1D-ResNet and four traditional machine learning models namely: Naïve Bayes, KNN, Random Forest and XGBoost. 1D-CNN outperformed the other models. The performance of the models were evaluated using imbalanced and balanced data.
+
+**Instructions to use**
+1D CNN folder comprised of all crease up, crease down and combined data files and 1D-ResNet folder contains single file
