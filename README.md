@@ -33,7 +33,7 @@ The dataset for this research consists of images of 40 popular wheat varieties h
 
 and Matplotlib,
 **Problem Solving Approach**
-![Wheat Seed Image](images/wheat_seed.png)
+![Wheat Seed Image]([images/wheat_seed.png](https://github.com/nitintyagi007-iitr/Wheat_species_classification/blob/main/Traditional%20machine%20learning%20models/Proposed%20approach.png))
 
 **Results**
 
